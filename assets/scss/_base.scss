@@ -178,7 +178,7 @@ a.dotted-link {
 /* Latest Section */
 .latest {
     .item {
-        margin-bottom: 30px;
+        margin-bottom: 20px;
         .title {
             font-size: 18px;
             margin-top: 0;
@@ -388,11 +388,11 @@ a.dotted-link {
             
         }
         .level-bar {
-            height: 15px;
+            height: 10px;
             background: darken($smoky-white, 5%);
         }
         .level-bar-inner {
-            height: 15px;
+            height: 10px;
             background: lighten($color-2, 15%);
         }
     }

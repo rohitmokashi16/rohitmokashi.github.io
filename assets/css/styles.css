@@ -199,7 +199,7 @@ a.dotted-link:hover {
 /* About Section */
 /* Latest Section */
 .latest .item {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .latest .item .title {
@@ -431,12 +431,12 @@ a.dotted-link:hover {
 }
 
 .skills .skillset .level-bar {
-  height: 15px;
+  height: 10px;
   background: #e8e8e8;
 }
 
 .skills .skillset .level-bar-inner {
-  height: 15px;
+  height: 10px;
   background: #66cb8c;
 }
 
